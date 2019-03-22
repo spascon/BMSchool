@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMS</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="tema1">Tema</string>
+    <string name="tema1_info">breve informacion </string>
+    <string name="tema1_descripcion">contenidocompleto</string>
+</resources>
