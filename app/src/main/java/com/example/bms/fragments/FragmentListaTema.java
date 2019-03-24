@@ -105,7 +105,17 @@ public class FragmentListaTema extends Fragment {
     }
 
     private void llenarListaTemas() {
-        listaTemas.add(new TemaVo(getString(R.string.tema1),getString(R.string.tema1_info),getString(R.string.tema1_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema2),getString(R.string.tema2_info),getString(R.string.tema2_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema3),getString(R.string.tema3_info),getString(R.string.tema3_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema4),getString(R.string.tema4_info),getString(R.string.tema4_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema5),getString(R.string.tema5_info),getString(R.string.tema5_descripcion), R.drawable.hagamo_publicidad4,R.drawable.hagamo_publicidad4));
+        listaTemas.add(new TemaVo(getString(R.string.tema6),getString(R.string.tema6_info),getString(R.string.tema6_descripcion), R.drawable.hagamo_publicidad4,R.drawable.hagamo_publicidad4));
+        listaTemas.add(new TemaVo(getString(R.string.tema7),getString(R.string.tema7_info),getString(R.string.tema7_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema8),getString(R.string.tema8_info),getString(R.string.tema8_descripcion), R.drawable.atencion_cliente7,R.drawable.atencion_cliente7));
+        listaTemas.add(new TemaVo(getString(R.string.tema9),getString(R.string.tema9_info),getString(R.string.tema9_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema10),getString(R.string.tema10_info),getString(R.string.tema10_descripcion), R.drawable.provecho_credito9,R.drawable.provecho_credito9));
+        listaTemas.add(new TemaVo(getString(R.string.tema11),getString(R.string.tema11_info),getString(R.string.tema11_descripcion), R.drawable.img,R.drawable.img));
+
 
 
 
