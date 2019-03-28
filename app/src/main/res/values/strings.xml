@@ -1,23 +1,197 @@
 <resources>
-    <string name="app_name">BMS</string>
+    <string name="app_name">Lider Emprende</string>
     <string name="action_settings">Settings</string>
+
+
     
-    <string name="tema2">Como posicionarse en el mercado</string>
-    <string name="tema2_info">Mucha gente considera el acto del “posicionamiento” como algo poco natural que les es impuesto por algún inepto del departamento de marketing que, a su vez, si-gue los consejos de un consultor extremadamente bien pagado pero sin ninguna idea valiosa. La verdad es que posicionarse o es un ejercicio trivial y es mucho más que un simple trámite o gestión. Cuando se hace bien, el posicionamiento refleja el cuerpo y alma de una nueva empresa y deja muy claro lo siguiente: </string>
-    <string name="tema2_descripcion">• Por qué los fundadores la crearon.
+    <string name="tema2">Tengo una idea ahora que hago</string>
+    <string name="tema2_info">Para emprender, lo primero que se debe tener es una idea de negocio que solucione alguna necesidad del mercado o que sea tan innovadora que incluso el mercado no se había percatado de que tenía esa necesidad. Sin embargo, en la mayoría de los casos, el emprendedor requerirá de apoyo si desea que su idea sea exitosa. En este artículo se detallan de un emprendimiento desde la concepción de la idea hasta contar con un negocio establecido. </string>
+    <string name="tema2_descripcion">La idea: Cuando se tiene una idea de negocio, lo primero que un emprendedor deberá hacer es buscar apoyo para perfeccionar la misma y revisar la factibilidad financiera del proyecto. Para ello, es común buscar una incubadora, quienes apoyan al emprendedor en estructurar la idea y en crear un plan de negocios. Además, se encargan de evaluar la viabilidad técnica, financiera y de mercado del proyecto. Las incubadoras, aparte de dar asesoría al emprendedor, muchas veces también aportan un espacio físico y acceso a financiamiento y capital semilla. La asistencia de las incubadoras, a su vez, atraviesan por las siguientes etapas:
+Pre incubación: Se brinda al emprendedor todas las herramientas necesarias para que pueda desarrollar su plan de negocios. El tiempo aproximado de este periodo es de 8 a 12 semanas, y se moldean aspectos como el plan de mercado, el plan financiero y aspectos legales, entre otros.
+Incubación: En esta etapa, se desarrolla el plan de negocios y se comienza con la implementación y la operación del mismo. La incubadora asesora al emprendedor en diferentes programas de financiamiento.
+Post-incubación: En esta etapa, ya el negocio se encuentra en marcha, pero se busca darle seguimiento y mejorarlo continuamente. Se ofrecen consultorías especializadas para que la empresa se consolide.
+Puesta en marcha: Una vez desarrollado el modelo de negocios, se genera un prototipo del producto o servicio y se prueba en el mercado. En esta etapa, es vital el manejo de los recursos escasos y el tiempo, así como la conformación de un equipo capaz. En este punto, el emprendedor comienza a producir a pequeña escala y a concretar sus primeras ventas; y es cuando se comprueba que efectivamente la idea tiene futuro. Es aquí el momento para identificar errores, carencias, oportunidades y mejoras, que de otra manera podrían pasarse por alto.
+Desarrollo inicial: En esta etapa, ya el emprendedor consiguió un producto que puede crecer y por lo tanto, comienza a escalar su modelo de negocio. En este momento resulta vital conseguir la financiación para poder arrancar. Para ello, deben considerarse las distintas opciones de financiamiento, como los son los inversionistas ángeles o las campañas de crowfunding. El emprendedor deberá formalizar su empresa y considerar aspectos como la facturación.
+Crecimiento y consolidación: En esta etapa, es cuando se pasa de un emprendimiento a una empresa final y las funciones operacionales ya están claras. Se debe dar a conocer la empresa por medio de campañas de publicidad, estrategias de marketing y difusión en redes sociales.
+Internacionalización: Es en esta etapa cuando el emprendedor empieza a escalar su modelo de negocio, y por lo tanto el financiamiento se vuelve importante nuevamente.
+Estas fases antes mencionadas son comunes en un emprendimiento exitoso, sin embargo, no debemos dejar de lado que es normal darse cuenta, en alguna de estas etapas, que la idea no llegará a tener el éxito que esperábamos. Es por esto que todo emprendedor deberá tener la capacidad de levantarse, de generar nuevas ideas y de empezar de nuevo con este proceso.
+
+</string>
+
+    <string name="tema3">Caracteristicas del Mercado</string>
+    <string name="tema3_info"> El concepto de mercado posee varias significaciones, una de ellas se refiere al lugar en el cual asisten los vendedores y compradores (oferentes y demandantes respectivamente), para la realización de las transacciones referentes a la adquisición y venta de diversos bienes y servicios, a muy diversos precios. Este mercado comprende a todas las instituciones, empresas, hogares y personas que tienen necesidades que pueden ser satisfechas con los productos de los ofertantes.</string>
+    <string name="tema3_descripcion">También se le llama mercado al conjunto de consumidores o compradores que ejercen una demanda específica sobre uno o más productos y que cuentan con la característica del mercado que es la capacidad de adquisición de un determinado producto o servicio.
+De la misma manera se le denomina como mercado al conjunto de actividades que se realizan por parte de agentes económicos, así como al conjunto de operaciones comerciales que incumben a un determinado sector de bienes.
+También se refiere a un determinado lugar o país, en el cual halla una importancia especial para la introducción de un producto o servicio determinado.
+
+
+
+
+        </string>
+
+
+    <string name="tema4">Caracteristicas del Entorno</string>
+    <string name="tema4_info">Explicado por el desempeño de los sectores Intermediación financiera e Industria manufacturera, la actividad económica reportó un aumento interanual de 3,7% durante noviembre de 2018.</string>
+    <string name="tema4_descripcion">La evolución positiva de la Intermediación Financiera, Seguros y Fondos de Pensiones, se explica por el alza de los ingresos por intereses derivados de los saldos de préstamos otorgados por la banca, aunado al desempeño de los institutos de pensiones por mayores aportaciones recibidas y rendimientos por sus inversiones, reportó el Banco Central de Honduras(BCH).
+La importancia del análisis del entorno empresarial radica en que las actividades emprendedoras responden a diferentes condiciones del entorno dependiendo del nivel de competitividad del país. En línea con los planteamientos, las dinámicas de emprendimiento pueden ser ampliamente diferentes dependiendo del institucional y del nivel de desarrollo económico. De hecho, en el campo de estudio del emprendimiento entre países, el amplio nexo entre emprendimiento, desarrollo económico e instituciones (entorno) se ha convertido en una línea de investigación. Por otro lado, la existencia de unas condiciones del entorno adecuadas es el requisito necesario para que tenga lugar una relación positiva entre el emprendimiento y crecimiento económico. Por eso, el conocimiento de las dinámicas de emprendimiento y desarrollo económico, además de las condiciones institucionales locales relevantes y de las variables específicas del contexto, ayudaría al desarrollo de políticas públicas de crecimiento económico. En este sentido, Jaén et al. (2013) señalan que las medidas de promoción del emprendimiento deberían tener en cuenta las características culturales especificas del entorno en el que se van a implementar.
+
+</string>
+
+    <string name="tema5">La planificación inicial del Negocio. </string>
+    <string name="tema5_info">El inicio de un periodo implica el comienzo de nuevos desafíos, el trazado de metas y la planificación de los siguientes objetivos de la organización. Esto es recomendable realizarlo cada año, semestres o –a veces- en trimestres o en cambios de temporadas comerciales.</string>
+    <string name="tema5_descripcion">Esto se refiere a planificar de manera sustentable el desarrollo del negocio. Adoptar esta acción como una tradición de tu empresa será la clave del éxito a largo plazo. Al planificar de esta manera, el empresario puede adelantarse a los cambios y tener preparado un “plan b” en caso de existir ajustes bruscos en el mercado.
+</string>
+
+
+    <string name="tema6">Hagamos un plan de Negocios</string>
+    <string name="tema6_info">Para empezar con un plan de negocios exitoso se tiene que tener en cuenta varios ountos de planificacion. </string>
+    <string name="tema6_descripcion">1. Recopila información
+-Potenciales ventas: Debes poder estimar las potenciales ventas que realizarás en el periodo que se inicia. Puedes considerar como base de cálculo la tendencia histórica de sus ventas y complementar con una estimación de la situación del mercado en el cual se desenvuelve.
+-Reunión con clientes: Para recoger el parecer de tus clientes debes programar una reunión con cada uno de ellos para conocer sus proyecciones. Así, podrás estimar sus necesidades y anticiparte a las tuyas.
+- Futuro del mercado: Existen muchas fuentes de información para estimar el comportamiento futuro de los sectores económicos, como por ejemplo: estudios de mercado sectoriales, opiniones de expertos, conferencias especializadas, etc. Además, puedes leer los diarios, ver las noticias y usar Internet para buscar los datos de tendencias y proyecciones de tu sector.
+2. Planificación
+Una vez recolectada la información, se inicia la planificación. Ésta puede ser de dos tipos:
+Planificación proyectiva: es la más básica, ya que supone que se puede evolucionar con la empresa desde un estado inicial a un estado final “deseado”, desarrollando una serie de acciones sin considerar la presencia de obstáculos en el camino.
+Planificación estratégica: ésta es la más recomendable, pues toma en cuenta la incertidumbre (posibilidad de cambios en el mercado) y postula que una empresa debe estar permanentemente revisando su estrategia para desarrollarse en el cambiante mercado actual.
+El proceso de planificación estratégica es un proceso cíclico en el cual la empresa debe:
+ - Fijar sus objetivos estratégicos, los que deberán estar alineados con la misión, visión, valores, políticas y fines que la empresa ha definido internamente. Éstos deben siempre considerar cuatro perspectivas básicas: los accionistas o dueños de la empresa, los clientes, los procesos internos y las capacidades del capital humano.
+- Desarrollar una estrategia explícita y una planificación adecuada donde se especifican acciones, responsabilidades y recursos para concretar los objetivos trazados.
+- Además, durante la ejecución de la estrategia deberá existir un proceso formal de seguimiento y control que permitirá evaluar el avance en la implementación de la estrategia trazada. Esto se realiza mediante reuniones de análisis e informes de avance, entre otras cosas.
+
+</string>
+
+    <string name="tema7">Hagamos un presupuesto</string>
+    <string name="tema7_info">El buen manejo de los recursos en la empresa garantiza su rentabilidad, de ahí la importancia de que las empresas de todos los tamaños elaboren sus presupuestos, aún más si inicias con un emprendimiento. Ya sea que te financies con tus ahorros o tengas necesidad de recurrir a otras fuentes, determinar a cuánto asciende tu inversión inicial es tan importante como decidir cómo distribuirás el capital.</string>
+    <string name="tema7_descripcion">La rentabilidad de un emprendimiento, incluso su supervivencia, depende del uso óptimo del dinero y del flujo de capital, así que la planeación financiera es un paso que no puedes saltarte cuando elabores tu plan de negocios.  Hay dos aspectos en los que debes enfocarte al realizar tu planeación: la inversión y el financiamiento. En el plan de inversión calcularás los gastos iniciales de crear y poner en funcionamiento el negocio y en el plan de financiamiento determinarás de dónde provendrá el dinero para operar el negocio si tus ahorros o los ingresos proyectados son insuficientes. Las fuentes de financiamiento son variadas e incluyen desde el crédito bancario y la participación de socios o inversionistas externos hasta la ayuda de amigos o familiares o lo que puedas reunir a través de una plataforma de financiamiento colectivo en internet. Saber dónde obtendrás dinero para iniciar y luego operar es la base de tu presupuesto empresarial.
+¿Cuál es la importancia del presupuesto?
+El presupuesto es una previsión que te guía en el manejo y control del dinero disponible; sin embargo, es esencial que le des seguimiento comparándolo con los resultados reales, tanto en el rubro de gastos como en el de ingresos.
+
+Revisar periódicamente tu presupuesto te permitirá detectar desviaciones importantes que requieran de tu intervención. Por ello, es como un plan de ruta que te indica si vas financieramente por buen camino o hay decisiones que tomar para apegar tu presupuesto a la realidad que enfrentas en el mercado en que operas.
+Lo principal es que elabores un presupuesto en el que preveas:
+Cuánto necesitas para montar tu emprendimiento. Si la inversión inicial es para una empresa de servicios será menor a la de un negocio manufacturero que requiere maquinaria, materias primas y una planta de producción. A cuánto ascenderán los costos fijos y variables indispensables para mantenerlo en operación.
+Cuánto proyectas vender y cómo se dará ese flujo de ingresos.
+
+¿Cuáles son las ventajas de tener un presupuesto?
+Saber de antemano de cuánto capital dispones y cómo lo distribuirás ayudará a que tu negocio alcance la rentabilidad, gracias a que:
+•	Sirve para poner límite a los gastos de cada área facilitando su control y la maximización de los recursos.
+•	Permite una mejor organización financiera, con lo cual evitarás endeudarte de más o caer en incumplimiento de pagos a tus proveedores o de tus deudas por financiamiento.
+•	Brinda seguridad financiera, ya que puedes prever cuándo tu flujo de efectivo será inadecuado y buscar soluciones a tiempo.
+•	Hace posible que todas las áreas de tu negocio trabajen en forma coordinada respetando los límites presupuestarios y buscando alcanzar los objetivos económicos planteados.
+•	Facilita llevar un control financiero al tener un parámetro con base al cual comparar resultados reales y tomar decisiones informadas y oportunas.
+•	Aporta una estructura financiera al establecer límites de gastos por áreas y delegar la responsabilidad de los mismos a los encargados de cada una.
+Ser realista al hacer tus proyecciones de gastos e ingresos y comparar tu presupuesto con datos reales son dos factores indispensables para que tu emprendimiento logre la rentabilidad que esperas. Nunca seas demasiado optimista en cuanto a tus ventas y mantén siempre un control sobre los gastos, aun cuando sientas que el dinero entra fácilmente al negocio. Más vale ser previsor que soñador para garantizar el cumplimiento de tus metas estratégicas.
+
+</string>
+
+
+    <string name="tema8"> Como fijar un precio</string>
+    <string name="tema8_info">Desde la concepción en tu mente de tu propia empresa, es necesario sentarte a plantear la viabilidad del producto o servicio, en otras palabras, los costos: ¿Cuánto me cuesta producir este producto? ¿Cuánto quiero ganarle?, pues se trata de un negocio que debe generar sus propios recursos.
+</string>
+    <string name="tema8_descripcion">Pero si se trata de pasos, te recomendamos lo siguiente para fijar tus precios:
+
+1.	Identifica y evalúa el mercado al que tu producto o servicio va dirigido. Conoce a quienes les ayudarás a resolver una necesidad, dónde se encuentran, qué edades tienen, cuántos son y cómo actúan.
+
+2.	Estudia la oferta de tus competidores. Siendo realista, no hay industria en la que no exista competencia, así que analiza cuál es el precio que actualmente está ofreciendo tu competidor: si es un precio elevado, muy bajo o razonable.
+
+3.	Sobre tu producto o servicio, ¿es simple o complejo? Define si es duradero o no duradero. Un producto no duradero es un producto que cumple una necesidad básica e inmediata, que se consume de forma rápida y por lo tanto tiene un precio bajo.
+
+4.	Establece tus costos fijos y variables. Para ello es necesario que cuantifiques los costos fijos que deberás cubrir mes a mes para que tu producto pueda estar en el mercado; un ejemplo de estos costos son: luz eléctrica, sueldos, teléfono, alquiler, etc. Por otra parte, los costos variables son los costos que van totalmente relacionados con tu cantidad de producción, es decir, es la materia prima de la que está hecho tu producto.
+
+5.	Define tu porcentaje de utilidad deseado. Una vez que identificaste los costos de tu producto el siguiente paso es simple: ¿Cuánto quieres ganar o cuánto crees que tu producto vale? Te recomiendo que lo asignes en porcentaje porque así te será más sencillo el manejo de tu negocio, defínelo en términos como: “Quiero tener un margen de utilidad del 25% por cada producto vendido”.
+
+6.	Evalúa tu propuesta de valor. Hacer este análisis es fundamental y es necesario que tomes en cuenta:
+
+•	¿Qué propuesta le estás dando a tus futuros clientes?
+•	¿Qué valor les dará tu producto o servicio para resolver sus necesidades?
+•	Tu producto, ¿hace una combinación adecuada entre costos variables bajos y un buen producto de calidad?
+•	¿Qué tan eficaz serás en resolver sus necesidades comparándote con la competencia?
+
+
+</string>
+
+    <string name="tema9"> Consigamos Financiamiento  </string>
+    <string name="tema9_info">El acceso a la financiación ha sido la principal causa de los obstáculos hacia la creación de empresas y hacia el crecimiento de las mismas. Dentro de este apartado te presentamos las características más relevantes sobre la temática de financiación
+de los emprendedores encuestados y analizaremos si el origen del capital y la cuantía del mismo disminuyen la probabilidad de fracaso.
+ </string>
+    <string name="tema9_descripcion">Un emprendedor es una persona en la que en sus hombros recae la difícil tarea de levantar su propia idea, proyecto o empresa. Es una persona que tiene que asumir cierto riesgo financiero para explotar sus oportunidades. Por ello, todos nos hacemos una pregunta clave cuando vemos que un individuo se embarca en un proceso de emprendimiento:
+¿Cuáles fueron los momentos más difíciles a los que tuvo que enfrentarse a la hora de poner en marcha su proyecto?
+Cualquier persona responderá: la financiación. El dilema de un nuevo emprendedor surge cuando lo tiene todo planteado, pero no sabe cómo llevarlo a cabo, es decir, no sabe cómo constituir su empresa y cómo obtener un préstamo rápido y fácil. Por ello, la pregunta que se hace todo empresario es, cómo y quién le va ayudar a financiar su idea o proyecto para poder llevar a la práctica y gestionar su modelo de negocio sin ningún inconveniente.
+Uno de los principales problemas con los que ha de enfrentarse todo empresario tanto al constituir su empresa como en los momentos de crecimiento y expansión es: la búsqueda de fuentes de financiación. Lo que todo emprendedor desea es conseguir dinero con el que poder empezar su camino hacia el éxito.
+
+</string>
+
+    <string name="tema10">Financiamiento como Inversionista </string>
+    <string name="tema10_info">Una necesidad que en ocasiones tenemos que recurrir si queremos que nuestro negocio crezca, y la cosa puede complicarse aún más si lo que necesitamos es capital para poder arrancar nuestro proyecto como emprendedores.
+Sin embargo, Financie España, comparador de productos financieros, nos ha indicado los principales métodos de financiación para empresas, autónomos y emprendedoras con sus pros y contras.
+Una de las opciones de financiamiento que está teniendo mucha popularidad son las plataformas crowdlending, como por ejemplo Younited-Credit.
+A través de estas plataformas podemos conseguir préstamos entre particulares; obtener liquidez a la vez que se pueden realizar inversiones.
+</string>
+    <string name="tema10_descripcion">Las principales fuentes de financiación utilizadas por los emprendedores que han participado en el estudio. Para cada fuente se detalla el porcentaje de emprendedores con empresas cerradas, no consolidadas y consolidadas que recurren a esta fuente de financiación. En esta figura podrás observar que la fuente de financiación con capital propio es la más utilizada, seguida por la financiación con crédito de entidad financiera. El setenta y ocho por ciento de las empresas que fracasaron usaron capital propio mientras que tan solo el treinta y ocho por ciento de las consolidadas
+usaron esta misma fuente. Como ya te habrás dado cuenta, los porcentajes no suman
+cien. Lo que sucede es que las diferentes fuentes de financiación no son excluyentes, es decir, los emprendedores combinan el capital propio con crédito de entidades financieras y subvención pública, por ejemplo. Este aspecto refleja parte de la dificultad que engloba la creación de una empresa. Al comparar las empresas que han cerrado con las empresas que continúan operando hemos encontrado que hay importantes diferencias significativas entre los dos grupos en especial
+en lo que se refiere a las fuentes de financiación propias o provenientes de la familia: las empresas que sobreviven tienen una financiación proveniente de estos dos conceptos.
+Este resultado es interesante, ¿por qué las empresas que se financian principalmente con capital propio y/o capital de la familia tienen mayor probabilidad de sobrevivir?
+Una respuesta plausible la podemos encontrar en la teoría de la empresa familiar que señala que la empresa representa el patrimonio familiar y por ello la familia, antes que la maximización de los beneficios, buscará la supervivencia de la empresa.
+Así mismo, el efecto de la dimensión familiar suele influir en que estas empresas tengan una estrategia más conservadora y menos arriesgada.
+
+</string>
+
+    <string name="tema11">Organizando mi Empresa </string>
+    <string name="tema11_info"> Nos ocuparemos, a continuación, de otro de los factores que consideramos en nuestro análisis de obstáculos para la creación de empresas: las características internas de la organización. En este apartado hemos considerado cuatro bloques que
+comprenden:
+
+Recursos humanos.
+ Compras y producción.
+ Marketing y distribución.
+ Soporte.
+</string>
+
+    <string name="tema11_descripcion">Se les pidió a los encuestados que clasificaran de cero a diez
+el grado de idoneidad, en el cual se encontraba la empresa, de cada uno de los componentes que conforman este bloque. En la tabla 2.4 puedes observar las notas medias de las valoraciones dadas a cada componente por cada una de las tres tipologías de emprendedores. A simple vista puedes percibir que las características físicas y de organización de las empresas que cesaron sus actividades están siempre por debajo del nivel de las empresas no consolidadas y consolidadas. Dentro del bloque de Recursos humanos, el componente con nota más baja en las empresas que cerraron fue el de conocimiento de temas legales y fiscales, seguido de la complementariedad en las funciones y capacidades de los socios.
+
+El primer aspecto es muy crucial ya que el desconocimiento de los aspectos legales y fiscales puede hacer que la empresa deba ser cerrada por cuestiones meramente legales y no por una mala planificación, un mal producto o una mala gestión.
+
+En el bloque de compras, producción y prestación de servicios, se puede observar que la puntuación más baja del componente de capacidad de negociación con proveedores corresponde a las empresas que cesaron su actividad. En segundo lugar, dentro de este bloque está la limitada capacidad de producción, es
+decir, no poder hacer frente a la demanda. La falta de negociación con los proveedores refleja el desconocimiento del sector y la poca o nula experiencia laboral que tiene el perfil del emprendedor que ha visto obligado a cerrar
+su empresa. Desafortunadamente, otro aspecto que ha podido originar en gran medida el cierre de las empresas es la baja capacidad de producción para hacer frente a la demanda. Cabe reflexionar sobre lo importante que es hacer una buena planificación de los recursos necesarios para satisfacer la demanda que se debió
+prever en la viabilidad del proyecto. ten en cuenta que una demanda insatisfecha genera costes a la empresa, tales como los correspondientes al trabajo
+administrativo extra originado por una orden retrasada, costes asociados a la pérdida de imagen y, en el peor de los casos, la pérdida total de la demanda.
+
+Los aspectos relativos al área de marketing y distribución en los cuales las empresas que han cerrado realizaron sus valoraciones más bajas fueron la baja capacidad para realizar estudios de investigación de mercado frecuentes y la falta de recursos para hacer actividades promocionales y ventas del producto o servicio.
+Recordemos que el principal factor considerado que limita la creación de empresas es la falta de financiación. Aquí constatamos cómo la falta de financiación limita la capacidad de investigación de mercado y limita las actividades promocionales para incentivar la demanda. En el último bloque, el soporte, nos indica la importancia de
+la falta de un ambiente que favorezca la creatividad y la innovación dentro de las empresas.
+
+Este aspecto es importantísimo ya que numerosos estudios han demostrado que las innovaciones  son la principal fuente de creación de una ventaja competitiva.
+Además, las empresas que se adaptan y se reinventan continuamente son las que más probabilidades tienen de alcanzar el éxito y sobrevivir en el tiempo.
+
+</string>
+
+    <string name="tema12">La competitividad de mi Producto </string>
+    <string name="tema12_info">También hemos considerado que el nivel competitivo que tenga el producto o servicio puede ser un factor determinante en el éxito o fracaso de la empresa. Por ello aquí te presentamos la comparativa de los atributos de los productos fracasados y los exitosos. Es decir, las puntuaciones otorgadas en base diez.
+</string>
+
+    <string name="tema12_descripcion">En todo mercado la competencia es dura y los clientes exigentes y debido a ello los productos que se ofrezcan deben ser competitivos para garantizar su existencia. Mostramos una lista de la nota media que dieron los emprendedores a las características de los productos/servicios ofrecidos.   Al igual que en los resultados de la tabla 2.4, las notas más bajas las han dado las personas emprendedoras de las empresas que han cesado sus actividades. Es decir, sus productos eran
+más deficientes y con menos atributos que aquellos ofrecidos por las empresas que han triunfado.
+
+Analizando los resultados, no damos cuenta de que el factor con menor nota en el caso de los emprendedores que cerraron su negocio es el de puntos débiles del producto. Esta puntuación es considerablemente más baja que la realizada por las
+empresas que siguen activas. Lo que tienes que aprender aquí es una idea sencilla “no lances al mercado” un producto que tú mismo consideras con ciertos defectos.
+
+
+</string>
+    <string name="tema13">Como posicionarse en el mercado </string>
+    <string name="tema13_info">Mucha gente considera el acto del “posicionamiento” como algo poco natural que les es impuesto por algún inepto del departamento de marketing que, a su vez, si-gue los consejos de un consultor extremadamente bien pagado pero sin ninguna idea valiosa. La verdad es que posicionarse o es un ejercicio trivial y es mucho más que un simple trámite o gestión. Cuando se hace bien, el posicionamiento refleja el cuerpo y alma de una nueva empresa y deja muy claro lo siguiente:
+
+• Por qué los fundadores la crearon.
 • Por qué los consumidores deben ser sus clientes.
 • Por qué la gente que vale debe trabajar en ella.
-
-Wile E. Coyote entiende la cuestión del posicionamiento mejor que muchos emprendedores: él es un coyote y se va a comer al conejo para cenar. Las empresas deberían posicionarse con una claridad semejante explicando exactamente qué es lo que hacen. .En realidad, el arte de posicionarse no consiste en otra cosa que en responder a una simple pregunta: ¿A qué te dedicas? Una buena respuesta debe abrir el radio de acción más amplio posible para tu empresa y establecer con precisión qué la diferencia de la competencia. Después deberás comunicar tu mensaje al mercado. En este capítulo aprenderás cómo conseguir ambas cosas de una forma breve, diferente y contundente. ASPIRA A LO MÁS ALTO A menos que seas un conejo a punto de ser devorado por un coyote, un buen posicionamiento es algo que inspira y transmite energía. Un buen posicionamiento no puede enfangarse en cuestiones de dinero, de participación en el mercado o de directivos con demasiado ego. Estas son las cualidades a las que debe aspirar:
+</string>
+    <string name="tema13_descripcion">Wile E. Coyote entiende la cuestión del posicionamiento mejor que muchos emprendedores: él es un coyote y se va a comer al conejo para cenar. Las empresas deberían posicionarse con una claridad semejante explicando exactamente qué es lo que hacen. .En realidad, el arte de posicionarse no consiste en otra cosa que en responder a una simple pregunta: ¿A qué te dedicas? Una buena respuesta debe abrir el radio de acción más amplio posible para tu empresa y establecer con precisión qué la diferencia de la competencia. Después deberás comunicar tu mensaje al mercado. En este capítulo aprenderás cómo conseguir ambas cosas de una forma breve, diferente y contundente. ASPIRA A LO MÁS ALTO A menos que seas un conejo a punto de ser devorado por un coyote, un buen posicionamiento es algo que inspira y transmite energía. Un buen posicionamiento no puede enfangarse en cuestiones de dinero, de participación en el mercado o de directivos con demasiado ego. Estas son las cualidades a las que debe aspirar:
 
 • POSITIVO. La creación de una empresa no es una guerra, así que no plantees los objetivos de tu empresa como si fuesen objetivos de guerra. El objetivo de tu compañía no es echar a otra empresa del negocio. A tus clientes no les importa si quieres destruir a la competencia. Lo que querrán saber es qué beneficios tienen si consumen tus productos o servicios.
 
-• CENTRADO EN EL CLIENTE. Posicionarse consiste en dejar claro qué es lo que haces por tus clientes o consumidores, no en lo que quieres convertirte. Decir que tu empresa es “la compañía líder” es algo egocéntrico, no centrado en el cliente. Además, no es práctico porque ¿cómo puedes probar que eres la empresa líder? ¿Cómo evitarás que otra empresa asegure que ella es “la compañía líder” con
+• CENTRADO EN EL CLIENTE. Posicionarse consiste en dejar claro qué es lo que haces por tus clientes o consumidores, no en lo que quieres convertirte. Decir que tu empresa es “la compañía líder” es algo egocéntrico, no centrado en el cliente. Además, no es práctico prque ¿cómo puedes probar que eres la empresa líder? ¿Cómo evitarás que otra empresa asegure que ella es “la compañía líder” con
 el mismo desparpajo que tú lo has hecho?.
-
-
-
-• INSPIRADOR. Además de ponerte en lo más alto, el posicionamiento de una empresa es toda una herramienta de trabajo. Es muy práctico y ayuda a que clientes, vendedores, trabajadores, periodistas y socios comprendan las principales ideas tácticas y estratégicas de la empresa y crean en ella. Así pues, un buen posicionamiento debe tener también las siguientes cualidades:
+        • INSPIRADOR. Además de ponerte en lo más alto, el posicionamiento de una empresa es toda una herramienta de trabajo. Es muy práctico y ayuda a que clientes, vendedores, trabajadores, periodistas y socios comprendan las principales ideas tácticas y estratégicas de la empresa y crean en ella. Así pues, un buen posicionamiento debe tener también las siguientes cualidades:
 • SER TOTALMENTE EXPLICATIVO. Un buen posicionamiento no deja lugar a dudas respecto a lo que quiere decir. Debe abarcar desde con conceptos tan mundanos como ahorrar dinero o aumentar beneficios a otros más etéreos como la felicidad, la sabiduría o la tranquilidad.
 
 • ESPECÍFICO. Un buen posicionamiento se dirige al cliente que busca. Si tú eres uno de ellos lo entenderás inmediatamente. Si no lo eres, también te darás cuenta. Por ejemplo, “aumentar la seguir dad de las páginas Web” es un posicionamiento vago y mediocre comparado con “reducir el riesgo de fraude para la banca comercial en sus transacciones online”.
@@ -33,11 +207,13 @@ años de vida hubiera sido “equipar las tiendas con máquinas registradoras”
 competencia. Lamentablemente, muchas compañías redactan sus posicionamientos como si no existiese competencia alguna o como
 si la que existe fuera totalmente incompetente. Lo que no suele ser
 el caso. (Más sobre este tema en la sección de este capítulo “Inténtalo al revés”).
+
 </string>
 
-    <string name="tema3">Como vender más.</string>
-    <string name="tema3_info">  Olvídate del “pienso, luego existo”: los emprendedores sólo existen si se venden. Las presentaciones comerciales no sólo sirven para conseguir dinero, sino que también son una he¬rramienta esencial para llegar a acuerdos sobre asuntos varios.</string>
-    <string name="tema3_descripcion">¿Cómo sabes si un emprendedor está vendiendo un proyecto? Respuesta: Porque sus labios se mueven. Llevo tiempo predicando en favor de mejores presentaciones de venta porque sufro de un problema médico llamada tinnitus que consiste en un zumbido constante en el oído derecho.
+    <string name="tema14">Como vender más </string>
+    <string name="tema14_info"> Olvídate del “pienso, luego existo”: los emprendedores sólo existen si se venden. Las presentaciones comerciales no sólo sirven para conseguir dinero, sino que también son una he¬rramienta esencial para llegar a acuerdos sobre asuntos varios. Los acuerdos pueden valer para muchas cosas: entrada de inversores para desarrollar un producto o servicio, cerrar una venta, afianzar una sociedad, reclutar un empleado o asegurar una inversión.</string>
+
+    <string name="tema14_descripcion">Pregunta: ¿Cómo sabes si un emprendedor está vendiendo un proyecto? Respuesta: Porque sus labios se mueven. Llevo tiempo predicando en favor de mejores presentaciones de venta porque sufro de un problema médico llamada tinnitus que consiste en un zumbido constante en el oído derecho.
 
 He visitado a muchos especialistas y resulta que ninguno sabe qué lo causa y mucho
 menos cómo curarlo. Me han dicho que reduzca el consumo de sal (mal lo llevo como
@@ -60,18 +236,20 @@ Párate ’a pensarlo. En realidad funciona al revés: primero dejas claro a qu�
 • Auxiliamos a los pecadores.
 • Combatimos los abusos contra la infancia.
 
+</string>
 
 
-        </string>
 
+<string name="tema15">Reclutemos Empleados</string>
+<string name="tema15_info">Hay pocas tareas que un emprendedor pueda disfrutar tanto como reclutar empleados para un nuevo proyecto. ¿Qué podría ser mejor que encontrar a gente que te ayude  a cambiar el mundo? Y hay pocos factores tan impor¬tantes para el éxito de una empresa que está empezando como la gente valiosa.
 
-    <string name="tema4">Reclutemos Empleados</string>
-    <string name="tema4_info">Hay pocas tareas que un emprendedor pueda disfrutar tanto como reclutar empleados para un nuevo proyecto. ¿Qué podría ser mejor que encontrar a gente que te ayude  a cambiar el mundo? Y hay pocos factores tan impor¬tantes para el éxito de una empresa que está empezando como la gente valiosa.</string>
-    <string name="tema4_descripcion">Un buen reclutamiento comienza por arriba: los Directores Ejecutivos tienen que reclutar a las mejores personas que puedan encontrar. Además, un buen reclutamiento exige ver más allá de superficialidades como la raza, el credo, el color, los estudios y la experiencia laboral. En lugar de ello, deberías centrarte en estos tres factores:
+Un buen reclutamiento comienza por arriba: los Directores Ejecutivos tienen que reclutar a las mejores personas que puedan encontrar. Además, un buen reclutamiento exige ver más allá de superficialidades como la raza, el credo, el color, los estudios y la experiencia laboral. En lugar de ello, deberías centrarte en estos tres factores:
  ¿El candidato puede hacer lo que necesitas que haga?
  ¿El candidato cree en el sentido de lo que intentas hacer?
  ¿El candidato tiene los puntos fuertes que necesitas (en contraposición a carecer de las debilidades que tratas de evitar)?
-Si los candidatos pasan este filtro, adelante con ellos, pero tienes que ser muy astuto, recurrir a todas tus armas, negociar en el m omento oportuno y verificar por duplicado tus intuiciones. Una vez que estén a bordo, deberías establecer un periodo de “luna de miel” durante el cual ambas partes podáis analizar si las cosas funcionan o no. Por último, como actitud mental, trata de “ganarte” a tus empleados día a día... para asegurarte de que quieran volver a trabajar al día siguiente.
+</string>
+
+<string name="tema15_descripcion">Si los candidatos pasan este filtro, adelante con ellos, pero tienes que ser muy astuto, recurrir a todas tus armas, negociar en el m omento oportuno y verificar por duplicado tus intuiciones. Una vez que estén a bordo, deberías establecer un periodo de “luna de miel” durante el cual ambas partes podáis analizar si las cosas funcionan o no. Por último, como actitud mental, trata de “ganarte” a tus empleados día a día... para asegurarte de que quieran volver a trabajar al día siguiente.
 Si hay algo que tiene que hacer un Director Ejecutivo es contratar un equipo de dirección mejor que él mismo. Si hay algo que tiene que hacer el equipo de dirección es contratar a empleados mejores que ellos mismos. Para que esto suceda, el Director Ejecutivo (y el equipo directivo) necesitan tener dos cualidades. La primera es la humildad de admitir que algunas personas pueden realizar una función concreta mejor de lo que lo pueden hacer ellos. La segunda, una vez que lo hayan admitido, es confiar en sí mismos tanto como para contratar a esas personas. Admito que hacer un llamamiento para que los directivos contraten jugadores de clase A no es una gran revelación, pero sigue habiendo muchas organizaciones llenas de ineptos. Esto ocurre porque la mayoría de gente no sigue este principio y porque resulta muy difí¬cil cribar a los ineptos. N o puedo obligarte a que aceptes este consejo, pero puedo darte cinco fórmulas para evitar contratar a la gente equivocada.
 • NO CONFUNDAS CORRELACIÓN Y CAUSACIÓN. Puede que un candidato haya trabajado en una organización cuando ésta alcanzó el éxito, pero eso no significa exactamente que él contribuyera al éxito. Puede ser que simplemente pasara por ahí. Cuando sube la marea, todos los barcos flotan. Para separar las águilas de los pingüinos, averigua qué proyectos específicos llevó el candidato y analiza sus resultados. También pue des intentar localizar a alguien de la empresa que trabajara con esa persona para ver si el candidato realmente hizo algo importante o no.
 
@@ -84,26 +262,27 @@ dando negativas. Si las referencias te remiten al Departamento de Recursos Human
 
 • CONFÍA EN TU FILÓN MÁS RICO. Tus actuales empleados son e recurso más rico para encontrar gente válida y evitar una explosión de ineptos en tu organización. Si tus propios empleados no están motivados para traer gente válida a la organización, ¿quién va a estarlo? Si estás dudando entre dos candidatos y hay uno al que conoce algún empleado, por lo general deberías optar por ése.
 Muchos emprendedores no se dan cuenta, pero las empresas que empiezan necesitan tres tipos de jugadores de clase A: en primer lugar kamikazes dispuestos a trabajar ochenta horas a la semana para alcanzar el éxito; en segundo lugar, implementadores que vayan tras el primer grupo y conviertan su trabajo en infraestructuras; en tercer lugar, operadores que sean perfectamente felices haciendo funcionar la infraestructura.
+
 </string>
 
-    <string name="tema5">Buscando Socios</string>
-    <string name="tema5_info">Una asociación efectiva puede darle buenos resultados a una empresa que está empezando. Puede acelerar su entrada en una nueva región geográ¬fica o en un segmento del mercado, abrir canales adicionales de distribución, acelerar el desarrollo de un producto nuevo y reducir los costes. </string>
-    <string name="tema5_descripcion">Una asociación efectiva puede darle buenos resultados a una empresa que está empezando. Puede acelerar su entrada en una nueva región geográ¬fica o en un segmento del mercado, abrir canales adicionales de distribución, acelerar el desarrollo de un producto nuevo y reducir los costes. A esto le llamo yo razones “de hoja de cálculo” porque cambian tus previsiones financieras. Desgraciadamente, muchas organizaciones forman asociaciones por motivos que no afectan a sus hojas de cálculo. En lugar de ello, muchas organizaciones se asocian por el efecto halo, para silenciar críticas, porque todo el mundo lo hace o por la emoción de la caza.
+    <string name="tema16">Buscando Socios </string>
+    <string name="tema16_info">Una asociación efectiva puede darle buenos resultados a una empresa que está empezando. Puede acelerar su entrada en una nueva región geográ¬fica o en un segmento del mercado, abrir canales adicionales de distribución, acelerar el desarrollo de un producto nuevo y reducir los costes. A esto le llamo yo razones “de hoja de cálculo” porque cambian tus previsiones financieras. Desgraciadamente, muchas organizaciones forman asociaciones por motivos que no afectan a sus hojas de cálculo. En lugar de ello, muchas organizaciones se asocian por el efecto halo, para silenciar críticas, porque todo el mundo lo hace o por la emoción de la caza.
 Por ejemplo, Apple y la Digital Equipment Corporation (DEC) se asociaron a finales de los años ochenta para responder a las críticas que la prensa lanzaba sobre ellas. Apple no tenía un historial de transmisión de datos y Digital no tenía un historial de ordenadores personales.
+</string>
 
-De esta alianza salió bien poco; ciertamente, ningún producto que catapultara a Apple hacia una gran legitimidad comercial o a DEC hacia el glamour de los ordenadores personales. Dudo que las hojas de cálculo de ninguna de las dos empresas reflejaran algún cambio, salvo el aumento de los costes. Fue, en el mejor de los casos, una
+    <string name="tema16_descripcion">De esta alianza salió bien poco; ciertamente, ningún producto que catapultara a Apple hacia una gran legitimidad comercial o a DEC hacia el glamour de los ordenadores personales. Dudo que las hojas de cálculo de ninguna de las dos empresas reflejaran algún cambio, salvo el aumento de los costes. Fue, en el mejor de los casos, una
 estrategia de relaciones públicas por parte de ambas empresas para quitarse a la prensa encima. Al menos, aprendí una valiosa lección de aquella experiencia: no
 formar nunca una asociación para contentar a la prensa. Apple estableció una asociación mucho más afortunada con una empresa joven llamada Aldus Corporation, los editores de PageMaker. En aquel tiempo, Apple pasaba por dificultades porque las gran dos empresas consideraban el Macintosh como un “bonito juguete para hacer gráficos”, no como un ordenador “de negocios”. Apple necesitaba una aplicación estrella que revitalizara la venta de Macintosh. Por su parte, Aldus necesitaba ayuda para vender su software introduciéndolo en los canales de distribución, preparando
 vendedores al por menor, abriendo cuentas importantes y formando a los usuarios finales.
 Fue un maravilloso y afortunado encuentro: ambas organizaciones necesitaban a la otra para aumentar sus ingresos. Con el poderío de su fuerza de ventas, publicidad y marketing, Apple podía ayudar a Aldus a alcanzar una masa crítica. Aldus hizo su parte dándole a la gente una razón de peso para comprar Macintosh en lugar de ordenadores con Windows. La asociación Apple-Aldus alumbró un nuevo mercado llamado autoedición, y la autoedición “salvó” a Apple e “hizo” a Aldus. Como
 suele decirse, lo demás es historia.
+
 </string>
 
+    <string name="tema17">Hagamos Publicidad </string>
+    <string name="tema17_info">Unas de las primeras cosas que debe entender un emprendedor es que su negocio tiene que hacerse conocido y publicitarse, sea cual sea el rubro al que pertenezca. Para ello, debe seguir estos pasos:</string>
 
-    <string name="tema6">Hagamos Publicidad</string>
-    <string name="tema6_info">Unas de las primeras cosas que debe entender un emprendedor es que su negocio tiene que hacerse conocido y publicitarse, sea cual sea el rubro al que pertenezca </string>
-    <string name="tema6_descripcion">Unas de las primeras cosas que debe entender un emprendedor es que su negocio tiene que hacerse conocido y publicitarse, sea cual sea el rubro al que pertenezca. Para ello, debe seguir estos pasos:
-•	Estudiar muy bien al público al que desea dirigirse.
+    <string name="tema17_descripcion">•	Estudiar muy bien al público al que desea dirigirse.
 
 •	Elegir - según su presupuesto - los medios que usará para enviar sus mensajes (medios tradicionales, soportes online o publicidad boca a boca).
 
@@ -119,15 +298,13 @@ suele decirse, lo demás es historia.
 
 
 •	Además los emprendedores deberían conversar con gente que sabe de publicidad y mensajes para ver en qué pueden estar fallando.
+
 </string>
 
-    <string name="tema7">Como constituirse comerciante individual en Honduras</string>
-    <string name="tema7_info">1.	Escritura de Constitución
-2.	Publicación en Diario de Mayor circulación
-3.	Testimonio de Escritura Pública una vez que se tiene el recorte de la publicación.
-4.	Registro en la Cámara de Comercio
-... </string>
-    <string name="tema7_descripcion">1.	Escritura de Constitución
+    <string name="tema18">Como constituirse comerciante individual en Honduras </string>
+    <string name="tema18_info">Para poder constituirse individualmente en el pais hay que seguir ciertos pasos para establecerse:</string>
+
+    <string name="tema18_descripcion">1.	Escritura de Constitución
 2.	Publicación en Diario de Mayor circulación
 3.	Testimonio de Escritura Pública una vez que se tiene el recorte de la publicación.
 4.	Registro en la Cámara de Comercio
@@ -186,24 +363,24 @@ Fotocopia de tarjeta de identidad o carnet de residencia del Representante Legal
 Fotocopia de la escritura de constitución.
 Costo: Un (1) timbre de Lps. 2.00.
 Tiempo de resolución: inmediato, si la documentación está en orden.
+
 </string>
 
-
-    <string name="tema8"> Atención al Cliente</string>
-    <string name="tema8_info">Al iniciar un emprendimiento hay que tomar varios factores en cuenta para que este tenga éxito, y uno de los más importantes es la satisfacción del cliente.
-“Los clientes buscan experiencias y cuando las experiencias son buenas ellos vuelven, pero cuando las experiencias son malas, ellos ya no regresan”, sostiene Patricia Hidalgo, PHD en Ciencias Sociales.
-</string>
-    <string name="tema8_descripcion">Al iniciar un emprendimiento hay que tomar varios factores en cuenta para que este tenga éxito, y uno de los más importantes es la satisfacción del cliente.
+    <string name="tema19">Atención al cliente</string>
+    <string name="tema19_info">Al iniciar un emprendimiento hay que tomar varios factores en cuenta para que este tenga éxito, y uno de los más importantes es la satisfacción del cliente.
 “Los clientes buscan experiencias y cuando las experiencias son buenas ellos vuelven, pero cuando las experiencias son malas, ellos ya no regresan”, sostiene Patricia Hidalgo, PHD en Ciencias Sociales.
 En este sentido destaca la necesidad de una cultura de servicio por parte del empresario, lo que deriva en una buena y adecuada atención a su comprador.
-“Para que haya un resultado real debe haber un compromiso, sobre todo de los mandos altos, porque son los que tienen que invertir y tienen que darse cuenta de que es necesario invertir en ellos y una de las mayores cosas es capacitarlos, motivarlos, pero tiene que venir desde arriba, a través del ejemplo”, añadió la especialista.
+ </string>
+
+    <string name="tema19_descripcion">“Para que haya un resultado real debe haber un compromiso, sobre todo de los mandos altos, porque son los que tienen que invertir y tienen que darse cuenta de que es necesario invertir en ellos y una de las mayores cosas es capacitarlos, motivarlos, pero tiene que venir desde arriba, a través del ejemplo”, añadió la especialista.
 Agrega que “los líderes tienen que actuar como quieren que todos sus empleados actúen; y claro, un empleado también tiene que estar bien pagado... que se lo reconozca, que se lo empodere, capacitarlo para solucionar problemas, dentro de los parámetros... y si se siente satisfecho dentro de una empresa, de ley va a reflejarse en la atención a su público”, aconseja Hidalgo.
+
 </string>
 
-    <string name="tema9"> Relaciones Públicas  </string>
-    <string name="tema9_info">¿Cuáles son las 5 acciones que debes cuidar y preparar, para tener una buena estrategia de relaciones públicas en eventos de networking o sesiones de ventas? </string>
-    <string name="tema9_descripcion">¿Cuáles son las 5 acciones que debes cuidar y preparar, para tener una buena estrategia de relaciones públicas en eventos de networking o sesiones de ventas?
-Identidad visual:
+    <string name="tema20">Relaciones Publicas </string>
+    <string name="tema20_info">¿Cuáles son las 5 acciones que debes cuidar y preparar, para tener una buena estrategia de relaciones públicas en eventos de networking o sesiones de ventas?</string>
+
+    <string name="tema20_descripcion">Identidad visual:
 Tu imagen corporativa  es un concepto de recepción;  es decir, que tu logotipo, página web, tu forma de vestir, de expresarte... es tu imagen corporativa y no se crea como un criterio de emisión, sino como un concepto que los que nos ven y oyen tienen que recibir.  Así pues tienes que representar la imagen corporativa de tu marca por todos los poros de tu piel.
 ¿Te imaginas a un director de banco yendo a su oficina en chándal? ¿O que tu médico te diga: "fumar mata", mientras se fuma un puro?
 Pues lo mismo extrapolado a tu persona.
@@ -211,9 +388,6 @@ Lleva tu "elevator speech" ensayadito de casa:
 Llamamos discurso de ascensor,  a una conversación que consiste en explicar de forma breve a lo que te dedicas,  a alguien que pueda estar interesado.  Para conseguir este discurso rápido, ¿de qué requerimos?: de ensayo + práctica;  así de simple.  Es posible que las primeras veces te salga fatal, pero con el tiempo irás mejorando.
 Escoge bien los eventos y sácales el máximo  jugo posible:
 Esto no va de ir a eventos por estar.  Es una inversión de tiempo considerable, y por ende, de dinero.  Así pues escógelos bien.  ¿Dónde está tú público objetivo? ¿Dónde están los colaboradores interesantes?
-
-
-
 No te olvides las tarjetas de visita:
 Es una acción a cuidar muy sencilla, a la par que útil.  Es precisamente por su sencillez que muchos nos olvidamos de este detalle las primeras veces que vamos a eventos de networking y reuniones.  ¡No pasa na! Le pasa a casi todo el mundo al principio, ya que no tienes el chip de las relaciones públicas instalado en el cerebro.
 Sé tú mismo:
@@ -223,12 +397,14 @@ Potencia, trabaja y enfócate en lo que haces de p.m, no intentes ser lo que no 
 ¿Sencillo? No.
 ¿Imposible? Tampoco.
 Práctica, no te agobies y siempre "pa lante".  Es del error que se aprende, no del acierto.
+
 </string>
 
-    <string name="tema10">Sacando Provecho de un Crédito </string>
-    <string name="tema10_info">Las pymes son muy importantes para el sistema bancario. Así lo afirmó la Asociación de Bancos de Honduras. Si tu negocio necesita un préstamo pon atención a los siguientes tips, que te enseñarán a gestionar y usar un crédito adecuadamente.</string>
-    <string name="tema10_descripcion">Las pymes son muy importantes para el sistema bancario. Así lo afirmó la Asociación de Bancos de Honduras. Si tu negocio necesita un préstamo pon atención a los siguientes tips, que te enseñarán a gestionar y usar un crédito adecuadamente.
-•	Asegúrate que es el momento adecuado. Pregúntate en qué etapa está tu empresa, verifica si ya pueden  comprobar ingresos.
+
+    <string name="tema21">Sacando Provecho de un Credito </string>
+    <string name="tema21_info">Las pymes son muy importantes para el sistema bancario. Así lo afirmó la Asociación de Bancos de Honduras. Si tu negocio necesita un préstamo pon atención a los siguientes tips, que te enseñarán a gestionar y usar un crédito adecuadamente.</string>
+
+    <string name="tema21_descripcion">•	Asegúrate que es el momento adecuado. Pregúntate en qué etapa está tu empresa, verifica si ya pueden  comprobar ingresos.
 
 •	Antes de sacar un crédito cerciórate de que realmente lo necesitas y lo podrás pagar en los plazos estipulados.
 
@@ -242,12 +418,13 @@ Práctica, no te agobies y siempre "pa lante".  Es del error que se aprende, no 
 •	Mantén tus cuentas personales fuera del negocio y de los gastos de la empresa. Usar créditos personales para el flujo de un negocio puede acarrearte hasta consecuencias fiscales.
 
 •	Trabaja en tu historial. Un emprendedor sin antecedentes positivos tiene nulas posibilidades de obtener un crédito.
+
 </string>
 
-    <string name="tema11">Área Legal de Mi empresa </string>
-    <string name="tema11_info"> •	Es la encargada de acordar con el titular de la empresa, todo lo referente a la normatividad interna de la empresa, así mismo, será representante legal de la empresa ante los juzgados y tribunales en todo juicio que este inmerso esta empresa</string>
-    <string name="tema11_descripcion">•	Es la encargada de acordar con el titular de la empresa, todo lo referente a la normatividad interna de la empresa, así mismo, será representante legal de la empresa ante los juzgados y tribunales en todo juicio que este inmerso esta empresa, tendrá los controles de normativas junto con la dirección administrativa para el buen funcionamiento de la empresa, será la encargada de resolver los problemas internos y aplicar las sanciones administrativas correspondientes por faltas al interior de la empresa.
-•	Constituye la piedra angular para el correcto ejercicio de la función jurídica dentro de la empresa. Dependiendo directamente de la planificación estratégica de la empresa, que el director jurídico ha de tener siempre en consideración, se han de planificar las acciones legales a adoptar y los recursos a dedicar a cada área legal para evitar contingencias en primer lugar, y en segundo lugar para ofrecer las alternativas legales más plausibles o afines con la política de la empresa y más económicas desde el punto de vista de coste financiero-fiscal.
+    <string name="tema22">Área Legal de Mi empresa </string>
+    <string name="tema22_info">•	Es la encargada de acordar con el titular de la empresa, todo lo referente a la normatividad interna de la empresa, así mismo, será representante legal de la empresa ante los juzgados y tribunales en todo juicio que este inmerso esta empresa, tendrá los controles de normativas junto con la dirección administrativa para el buen funcionamiento de la empresa, será la encargada de resolver los problemas internos y aplicar las sanciones administrativas correspondientes por faltas al interior de la empresa.</string>
+
+    <string name="tema22_descripcion">•	Constituye la piedra angular para el correcto ejercicio de la función jurídica dentro de la empresa. Dependiendo directamente de la planificación estratégica de la empresa, que el director jurídico ha de tener siempre en consideración, se han de planificar las acciones legales a adoptar y los recursos a dedicar a cada área legal para evitar contingencias en primer lugar, y en segundo lugar para ofrecer las alternativas legales más plausibles o afines con la política de la empresa y más económicas desde el punto de vista de coste financiero-fiscal.
 •	La mayor parte de las tareas de planificación tienen un horizonte temporal anual o incluso superior. En este apartado, y siempre atendiendo a la tipología de cada empresa, se enmarcan como las más comunes la planificación fiscal de la empresa, para optimizar la carga impositiva que la misma soporta, la planificación de la política laboral de la compañía, así como la planificación mercantil de las operaciones societarias a acometer dentro del plan estratégico de la empresa (creación de sucursales o nuevas filiales, operaciones de reestructuración, ampliaciones o reducciones de capital, etc).
 FUNCIONES:
 •	Producir la normatividad interna de la empresa
@@ -256,8 +433,9 @@ FUNCIONES:
 •	Resolver los problemas internos y aplicar sanciones administrativas correspondientes por faltas al interior de la empresa
 •	Proveer soporte a las áreas de la empresa que realicen contratos con proveedores, clientes y empleados (negociación, elaboración y revisión de contratos, y solución de disputas)
 •	Proveer soporte a las áreas de la empresa que realicen trámites gubernamentales de naturaleza fiscal, de medio ambiente y de comercio internacional.
-</string>
 
+
+    </string>
 
 
 </resources>

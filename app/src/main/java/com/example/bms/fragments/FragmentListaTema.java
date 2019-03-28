@@ -105,7 +105,7 @@ public class FragmentListaTema extends Fragment {
     }
 
     private void llenarListaTemas() {
-        listaTemas.add(new TemaVo(getString(R.string.tema2),getString(R.string.tema2_info),getString(R.string.tema2_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema2),getString(R.string.tema2_info),getString(R.string.tema2_descripcion), R.drawable.relaciones_publicas2,R.drawable.relaciones_publicas));
         listaTemas.add(new TemaVo(getString(R.string.tema3),getString(R.string.tema3_info),getString(R.string.tema3_descripcion), R.drawable.img,R.drawable.img));
         listaTemas.add(new TemaVo(getString(R.string.tema4),getString(R.string.tema4_info),getString(R.string.tema4_descripcion), R.drawable.img,R.drawable.img));
         listaTemas.add(new TemaVo(getString(R.string.tema5),getString(R.string.tema5_info),getString(R.string.tema5_descripcion), R.drawable.hagamo_publicidad4,R.drawable.hagamo_publicidad4));
@@ -115,6 +115,17 @@ public class FragmentListaTema extends Fragment {
         listaTemas.add(new TemaVo(getString(R.string.tema9),getString(R.string.tema9_info),getString(R.string.tema9_descripcion), R.drawable.img,R.drawable.img));
         listaTemas.add(new TemaVo(getString(R.string.tema10),getString(R.string.tema10_info),getString(R.string.tema10_descripcion), R.drawable.provecho_credito9,R.drawable.provecho_credito9));
         listaTemas.add(new TemaVo(getString(R.string.tema11),getString(R.string.tema11_info),getString(R.string.tema11_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema12),getString(R.string.tema12_info),getString(R.string.tema12_descripcion), R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema13),getString(R.string.tema13_info),getString(R.string.tema13_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema14),getString(R.string.tema14_info),getString(R.string.tema14_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema15),getString(R.string.tema15_info),getString(R.string.tema15_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema16),getString(R.string.tema16_info),getString(R.string.tema16_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema17),getString(R.string.tema17_info),getString(R.string.tema17_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema18),getString(R.string.tema18_info),getString(R.string.tema18_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema19),getString(R.string.tema19_info),getString(R.string.tema19_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema20),getString(R.string.tema20_info),getString(R.string.tema20_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema21),getString(R.string.tema21_info),getString(R.string.tema21_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema22),getString(R.string.tema22_info),getString(R.string.tema22_descripcion),R.drawable.img,R.drawable.img));
 
 
 
