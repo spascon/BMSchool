@@ -105,27 +105,27 @@ public class FragmentListaTema extends Fragment {
     }
 
     private void llenarListaTemas() {
-        listaTemas.add(new TemaVo(getString(R.string.tema2),getString(R.string.tema2_info),getString(R.string.tema2_descripcion), R.drawable.relaciones_publicas2,R.drawable.relaciones_publicas));
-        listaTemas.add(new TemaVo(getString(R.string.tema3),getString(R.string.tema3_info),getString(R.string.tema3_descripcion), R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema4),getString(R.string.tema4_info),getString(R.string.tema4_descripcion), R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema5),getString(R.string.tema5_info),getString(R.string.tema5_descripcion), R.drawable.hagamo_publicidad4,R.drawable.hagamo_publicidad4));
-        listaTemas.add(new TemaVo(getString(R.string.tema6),getString(R.string.tema6_info),getString(R.string.tema6_descripcion), R.drawable.hagamo_publicidad4,R.drawable.hagamo_publicidad4));
-        listaTemas.add(new TemaVo(getString(R.string.tema7),getString(R.string.tema7_info),getString(R.string.tema7_descripcion), R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema8),getString(R.string.tema8_info),getString(R.string.tema8_descripcion), R.drawable.atencion_cliente7,R.drawable.atencion_cliente7));
-        listaTemas.add(new TemaVo(getString(R.string.tema9),getString(R.string.tema9_info),getString(R.string.tema9_descripcion), R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema10),getString(R.string.tema10_info),getString(R.string.tema10_descripcion), R.drawable.provecho_credito9,R.drawable.provecho_credito9));
-        listaTemas.add(new TemaVo(getString(R.string.tema11),getString(R.string.tema11_info),getString(R.string.tema11_descripcion), R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema12),getString(R.string.tema12_info),getString(R.string.tema12_descripcion), R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema13),getString(R.string.tema13_info),getString(R.string.tema13_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema14),getString(R.string.tema14_info),getString(R.string.tema14_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema15),getString(R.string.tema15_info),getString(R.string.tema15_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema16),getString(R.string.tema16_info),getString(R.string.tema16_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema17),getString(R.string.tema17_info),getString(R.string.tema17_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema18),getString(R.string.tema18_info),getString(R.string.tema18_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema19),getString(R.string.tema19_info),getString(R.string.tema19_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema20),getString(R.string.tema20_info),getString(R.string.tema20_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema21),getString(R.string.tema21_info),getString(R.string.tema21_descripcion),R.drawable.img,R.drawable.img));
-        listaTemas.add(new TemaVo(getString(R.string.tema22),getString(R.string.tema22_info),getString(R.string.tema22_descripcion),R.drawable.img,R.drawable.img));
+        listaTemas.add(new TemaVo(getString(R.string.tema2),getString(R.string.tema2_info),getString(R.string.tema2_descripcion), R.drawable.engo,R.drawable.engo2));
+        listaTemas.add(new TemaVo(getString(R.string.tema3),getString(R.string.tema3_info),getString(R.string.tema3_descripcion), R.drawable.aracteristicas_del_mercado,R.drawable.aracteristicas_de_mercado));
+        listaTemas.add(new TemaVo(getString(R.string.tema4),getString(R.string.tema4_info),getString(R.string.tema4_descripcion), R.drawable.entorno_emprededor,R.drawable.entorno_empre));
+        listaTemas.add(new TemaVo(getString(R.string.tema5),getString(R.string.tema5_info),getString(R.string.tema5_descripcion), R.drawable.planificacion_inicial,R.drawable.lan_inicial));
+        listaTemas.add(new TemaVo(getString(R.string.tema6),getString(R.string.tema6_info),getString(R.string.tema6_descripcion), R.drawable.agamos_un_plan,R.drawable.agamos_un_plan2));
+        listaTemas.add(new TemaVo(getString(R.string.tema7),getString(R.string.tema7_info),getString(R.string.tema7_descripcion), R.drawable.hagamos_un_presupuesto,R.drawable.hagamos_un_presupuesto2));
+        listaTemas.add(new TemaVo(getString(R.string.tema8),getString(R.string.tema8_info),getString(R.string.tema8_descripcion), R.drawable.omo_fijar_un_precio,R.drawable.omo_fijar_un_precio2));
+        listaTemas.add(new TemaVo(getString(R.string.tema9),getString(R.string.tema9_info),getString(R.string.tema9_descripcion), R.drawable.onsi_financiamiento,R.drawable.onsi_financiamiento2));
+        listaTemas.add(new TemaVo(getString(R.string.tema10),getString(R.string.tema10_info),getString(R.string.tema10_descripcion), R.drawable.inanciamiento_inversio,R.drawable.inanciamiento_inversio2));
+        listaTemas.add(new TemaVo(getString(R.string.tema11),getString(R.string.tema11_info),getString(R.string.tema11_descripcion), R.drawable.rganizando_empre,R.drawable.rganizando2));
+        listaTemas.add(new TemaVo(getString(R.string.tema12),getString(R.string.tema12_info),getString(R.string.tema12_descripcion), R.drawable.ompetitividad,R.drawable.ompetitividad_producto));
+        listaTemas.add(new TemaVo(getString(R.string.tema13),getString(R.string.tema13_info),getString(R.string.tema13_descripcion),R.drawable.como_posicionarse_en_el_mercado,R.drawable.como_posicionarse_en_el_mercado2));
+        listaTemas.add(new TemaVo(getString(R.string.tema14),getString(R.string.tema14_info),getString(R.string.tema14_descripcion),R.drawable.omo,R.drawable.omo2));
+        listaTemas.add(new TemaVo(getString(R.string.tema15),getString(R.string.tema15_info),getString(R.string.tema15_descripcion),R.drawable.reclutamiento,R.drawable.reclutemos));
+        listaTemas.add(new TemaVo(getString(R.string.tema16),getString(R.string.tema16_info),getString(R.string.tema16_descripcion),R.drawable.uscando_socios,R.drawable.uscando_socios2));
+        listaTemas.add(new TemaVo(getString(R.string.tema17),getString(R.string.tema17_info),getString(R.string.tema17_descripcion),R.drawable.hagamo_publicidad4,R.drawable.ublicidad));
+        listaTemas.add(new TemaVo(getString(R.string.tema18),getString(R.string.tema18_info),getString(R.string.tema18_descripcion),R.drawable.como_constituirse,R.drawable.omo_constituirse_en_el_mercado));
+        listaTemas.add(new TemaVo(getString(R.string.tema19),getString(R.string.tema19_info),getString(R.string.tema19_descripcion),R.drawable.atencion_cliente7,R.drawable.atencion_cliente));
+        listaTemas.add(new TemaVo(getString(R.string.tema20),getString(R.string.tema20_info),getString(R.string.tema20_descripcion),R.drawable.relaciones_publicas,R.drawable.relaciones_publicas2));
+        listaTemas.add(new TemaVo(getString(R.string.tema21),getString(R.string.tema21_info),getString(R.string.tema21_descripcion),R.drawable.provecho_credito9,R.drawable.provecho));
+        listaTemas.add(new TemaVo(getString(R.string.tema22),getString(R.string.tema22_info),getString(R.string.tema22_descripcion),R.drawable.area_legal,R.drawable.area_legal2));
 
 
 
