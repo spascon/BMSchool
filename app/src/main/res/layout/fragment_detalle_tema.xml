@@ -13,12 +13,20 @@
         android:scaleType="fitXY"
         android:layout_marginBottom="10dp"/>
 
+    <ScrollView
+        android:layout_width="400dp"
+        android:layout_height="200dp">
     <TextView
         android:id="@+id/decripcionId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Descripción"/>
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </ScrollView>
 
 
 
