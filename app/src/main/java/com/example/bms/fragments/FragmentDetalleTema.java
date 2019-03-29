@@ -77,14 +77,21 @@ public class FragmentDetalleTema extends Fragment {
 
         Bundle objtoTema = getArguments();
         TemaVo tema = null;
+
+        //Dato enviado por parametro
         if (objtoTema != null) {
             tema = (TemaVo) objtoTema.getSerializable("objeto");
-            imagenDetalle.setImageResource(tema.getImageDetalle());
-            txtDescripcion.setText(tema.getDescripcion());
+            asignarInformacion(tema);
         }
-
         return vista;
     }
+
+    //Metodo que sera usado en enviar personaje
+    public void asignarInformacion(TemaVo tema) {
+        imagenDetalle.setImageResource(tema.getImageDetalle());
+        txtDescripcion.setText(tema.getDescripcion());
+    }
+
     // TODO: Rename method, update argument and hook method into UI event
     public void onButtonPressed(Uri uri) {
         if (mListener != null) {

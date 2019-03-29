@@ -14,6 +14,7 @@ import com.example.bms.entidades.TemaVo;
 import com.example.bms.fragments.FragmentDetalleTema;
 import com.example.bms.fragments.FragmentListaTema;
 import com.example.bms.interfaces.IComunicaFragments;
+import com.example.bms.utilidades.Utilidades;
 
 public class MainActivity extends AppCompatActivity  implements  FragmentListaTema.OnFragmentInteractionListener,
         FragmentDetalleTema.OnFragmentInteractionListener, IComunicaFragments {
@@ -25,11 +26,29 @@ public class MainActivity extends AppCompatActivity  implements  FragmentListaTe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        listaFragment = new FragmentListaTema();
+        //Condicion para modo de pantalla
+        if(findViewById(R.id.contenedorFragment)!= null){
+            Utilidades.portatrait=true;
+            if(savedInstanceState != null){
+                return;
+            }
 
-        getSupportFragmentManager().
-                beginTransaction().
-                replace(R.id.contenedorFragment, listaFragment).commit();
+
+
+            //Costructor
+            listaFragment = new FragmentListaTema();
+
+            getSupportFragmentManager().
+                    beginTransaction().
+                    replace(R.id.contenedorFragment, listaFragment).commit();
+
+        }
+        else{
+            Utilidades.portatrait=false;
+        }
+
+
+
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
@@ -72,13 +91,24 @@ public class MainActivity extends AppCompatActivity  implements  FragmentListaTe
 
     @Override
     public void enviarTema(TemaVo tema) {
-        detalleFragment = new FragmentDetalleTema();
-        Bundle bundleEnvio = new Bundle();
-        bundleEnvio.putSerializable("objeto", tema);
-        detalleFragment.setArguments(bundleEnvio);
 
-        //Cargar
-        getSupportFragmentManager().beginTransaction().replace(R.id.contenedorFragment, detalleFragment).addToBackStack(null).commit();
+        detalleFragment= (FragmentDetalleTema)
+                this.getSupportFragmentManager().findFragmentById(R.id.fragDetalle);
 
+        if(detalleFragment !=null && findViewById(R.id.contenedorFragment)==null){
+            detalleFragment.asignarInformacion(tema);
+
+        }else{
+            detalleFragment = new FragmentDetalleTema();
+            Bundle bundleEnvio = new Bundle();
+            bundleEnvio.putSerializable("objeto", tema);
+            detalleFragment.setArguments(bundleEnvio);
+
+            //Cargar fragment en activity
+            getSupportFragmentManager().
+                    beginTransaction().
+                    replace(R.id.contenedorFragment, detalleFragment).addToBackStack(null).commit();
+
+        }
     }
 }

@@ -10,6 +10,7 @@ import android.widget.TextView;
 
 import com.example.bms.R;
 import com.example.bms.entidades.TemaVo;
+import com.example.bms.utilidades.Utilidades;
 
 import java.util.ArrayList;
 
@@ -29,6 +30,10 @@ public class AdaptadorTemas extends
     @Override
     public TemasViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
         View view= LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.item_list, null , false);
+        RecyclerView.LayoutParams layoutParams= new RecyclerView.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT,
+                ViewGroup.LayoutParams.WRAP_CONTENT);
+        view.setLayoutParams(layoutParams);
+
         view.setOnClickListener(this);
         return new TemasViewHolder(view);
     }
@@ -36,7 +41,11 @@ public class AdaptadorTemas extends
     @Override
     public void onBindViewHolder(@NonNull TemasViewHolder temasViewHolder, int i) {
         temasViewHolder.txtTitulo.setText(listaTemas.get(i).getTitulo());
-        temasViewHolder.txtInformacion.setText(listaTemas.get(i).getInfo());
+        if(Utilidades.portatrait==true ){
+            temasViewHolder.txtInformacion.setText(listaTemas.get(i).getInfo());
+
+        }
+
         temasViewHolder.imagen.setImageResource(listaTemas.get(i).getImgID());
 
     }
@@ -69,6 +78,9 @@ public class AdaptadorTemas extends
         public TemasViewHolder(@NonNull View itemView) {
             super(itemView);
             txtTitulo = (TextView) itemView.findViewById(R.id.idTitulo);
-            txtInformacion = (TextView) itemView.findViewById(R.id.idInfo);
+            if(Utilidades.portatrait==true ){
+                txtInformacion = (TextView) itemView.findViewById(R.id.idInfo);
+            }
+
             imagen = (ImageView) itemView.findViewById(R.id.idImagen);
 }}}
