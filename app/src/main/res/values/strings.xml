@@ -4,7 +4,6 @@
 
 
     
-<<<<<<< HEAD
     <string name="tema2">Tengo una idea ahora que hago</string>
     <string name="tema2_info">Para emprender, lo primero que se debe tener es una idea de negocio que solucione alguna necesidad del mercado o que sea tan innovadora que incluso el mercado no se había percatado de que tenía esa necesidad. Sin embargo, en la mayoría de los casos, el emprendedor requerirá de apoyo si desea que su idea sea exitosa. En este artículo se detallan de un emprendimiento desde la concepción de la idea hasta contar con un negocio establecido. </string>
     <string name="tema2_descripcion">La idea: Cuando se tiene una idea de negocio, lo primero que un emprendedor deberá hacer es buscar apoyo para perfeccionar la misma y revisar la factibilidad financiera del proyecto. Para ello, es común buscar una incubadora, quienes apoyan al emprendedor en estructurar la idea y en crear un plan de negocios. Además, se encargan de evaluar la viabilidad técnica, financiera y de mercado del proyecto. Las incubadoras, aparte de dar asesoría al emprendedor, muchas veces también aportan un espacio físico y acceso a financiamiento y capital semilla. La asistencia de las incubadoras, a su vez, atraviesan por las siguientes etapas:
@@ -439,9 +438,4 @@ FUNCIONES:
     </string>
 
 
-=======
-    <string name="tema1">Tema</string>
-    <string name="tema1_info">breve informacion </string>
-    <string name="tema1_descripcion">contenidocompleto</string>
->>>>>>> parent of 4565495... cargada
 </resources>

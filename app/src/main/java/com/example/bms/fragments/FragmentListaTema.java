@@ -105,7 +105,6 @@ public class FragmentListaTema extends Fragment {
     }
 
     private void llenarListaTemas() {
-<<<<<<< HEAD
         listaTemas.add(new TemaVo(getString(R.string.tema2),getString(R.string.tema2_info),getString(R.string.tema2_descripcion), R.drawable.relaciones_publicas2,R.drawable.relaciones_publicas));
         listaTemas.add(new TemaVo(getString(R.string.tema3),getString(R.string.tema3_info),getString(R.string.tema3_descripcion), R.drawable.img,R.drawable.img));
         listaTemas.add(new TemaVo(getString(R.string.tema4),getString(R.string.tema4_info),getString(R.string.tema4_descripcion), R.drawable.img,R.drawable.img));
@@ -128,9 +127,6 @@ public class FragmentListaTema extends Fragment {
         listaTemas.add(new TemaVo(getString(R.string.tema21),getString(R.string.tema21_info),getString(R.string.tema21_descripcion),R.drawable.img,R.drawable.img));
         listaTemas.add(new TemaVo(getString(R.string.tema22),getString(R.string.tema22_info),getString(R.string.tema22_descripcion),R.drawable.img,R.drawable.img));
 
-=======
-        listaTemas.add(new TemaVo(getString(R.string.tema1),getString(R.string.tema1_info),getString(R.string.tema1_descripcion), R.drawable.img,R.drawable.img));
->>>>>>> parent of 4565495... cargada
 
 
 
